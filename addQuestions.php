@@ -129,7 +129,7 @@ if(isset($_POST['reset']) && $_POST['reset'] != ""){
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Create A Quiz</title>
+<title>Start CBT</title>
 <script>
 function showDiv(el1,el2){
 	document.getElementById(el1).style.display = 'block';
