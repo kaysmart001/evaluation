@@ -71,6 +71,7 @@ xhr.send(vars);
 	secs--;
 	var timer = setTimeout('countDown('+secs+',"'+elem+'")',1000);
 }
+.
 </script>
 <script>
 function getQuestion(){
