@@ -65,6 +65,7 @@ if ($f == 1) {
 <title>CBT Test</title>
 <script>
 function startQuiz(url){
+	//sets the new location of the current window(redirection)
 	window.location = url;
 }
 function AddQuestion(url) {
